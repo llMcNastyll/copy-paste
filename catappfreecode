@@ -53,9 +53,15 @@
             <input id="loving" type="checkbox" name="personality"> <label for="loving">Loving</label>
             <input id="lazy" type="checkbox" name="personality"> <label for="lazy">Lazy</label>
             <input id="energetic" type="checkbox" name="personality"> <label for="energetic"> Energetic</label>
+            </fieldset>
+            <fieldset>
+            <legend>Does your cat suck?</legend>
+            <input id="stupid" type="checkbox" name="personality"> <label for="stupid"> Stupid</label>
+            <input id="smelly" type="checkbox" name="personality"> <label for "smelly"> Smelly</label>
+            <input id="bum leg" type"checkbox" name="personality"> <label for "bum leg"> Bum Leg</label>
           </fieldset>
-          <input type="text" name="catphotourl" placeholder="Fat Shit Cat" required>
-          <button type="submit">Submit</button>
+          <input type="text" name="FatShitCat" placeholder="Fat Shit Cat" required>
+          <button type="submit">Finger Me</button>
         </form>
       </section>
     </main>
