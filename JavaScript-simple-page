@@ -6,7 +6,7 @@
     <title>Simple JavaScript Page</title>
 </head>
 <body>
-    <h1>Hello, JavaScript!</h1>
+    <h1 style="backgroung-color red">Hello, JavaScript!</h1>
     <button onclick="showAlert()">Click me</button>
     <script>
         function showAlert() {
